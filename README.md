@@ -1,2 +1,2 @@
 # data
-Public repositories to store datasets
+Public repository to store datasets
